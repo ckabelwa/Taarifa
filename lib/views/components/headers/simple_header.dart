@@ -25,7 +25,7 @@ class SimpleHeader extends StatelessWidget {
           Text(day,
               style: TextStyle(fontSize: 30, fontWeight: FontWeight.bold)),
           SizedBox(
-            height: 10,
+            height: 11,
           )
         ],
       ),
